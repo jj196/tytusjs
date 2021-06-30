@@ -13,3 +13,4 @@ Log Notes
 |9|29/06/2021|1|pablorrp1|2|K-nearest neigbor|Cálculo del punto a clasificar contra datos de entrenamiento|Finalizado|29/06/2021|
 |10|29/06/2021|3|ronald1512|3|Redes neuronales|Análisis y diseño del algoritmo|En desarrollo|En desarrollo|
 |11|29/06/2021|-|pablorrp1|2|Conjuntos difusos|Cálculo del punto a clasificar por conjuntos difusos|En desarrollo|En desarrollo|
+|13|29/06/2021|-|jj196|6|Método de Bayes|Análisis|En desarrollo|En desarrollo|
